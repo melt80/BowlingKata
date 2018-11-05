@@ -3,3 +3,9 @@ C:\source\repos\BowlingTests2\BowlingGame\bin\Debug\BowlingGame.pdb
 C:\source\repos\BowlingTests2\BowlingGame\obj\Debug\BowlingGame.csproj.CoreCompileInputs.cache
 C:\source\repos\BowlingTests2\BowlingGame\obj\Debug\BowlingGame.dll
 C:\source\repos\BowlingTests2\BowlingGame\obj\Debug\BowlingGame.pdb
+C:\Users\neilt\source\repos\BowlingKata\BowlingGame\bin\Debug\BowlingGame.dll
+C:\Users\neilt\source\repos\BowlingKata\BowlingGame\bin\Debug\BowlingGame.pdb
+C:\Users\neilt\source\repos\BowlingKata\BowlingGame\obj\Debug\BowlingGame.csprojAssemblyReference.cache
+C:\Users\neilt\source\repos\BowlingKata\BowlingGame\obj\Debug\BowlingGame.csproj.CoreCompileInputs.cache
+C:\Users\neilt\source\repos\BowlingKata\BowlingGame\obj\Debug\BowlingGame.dll
+C:\Users\neilt\source\repos\BowlingKata\BowlingGame\obj\Debug\BowlingGame.pdb
